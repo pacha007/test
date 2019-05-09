@@ -1,3 +1,4 @@
-alert ("Hello")
-alert ("Bonjour")
+var message = "Hello!"
+alert (message)
+
 
