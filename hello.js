@@ -1,4 +1,4 @@
-var message = "Hello!"
-alert (message)
+var message = "Hello!";
+alert (message);
 
 
